@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-demo"]
+	path = themes/hexo-theme-demo
+	url = git@upcwangying.github.com:upcwangying/hexo-theme-demo.git
